@@ -1,3 +1,6 @@
+Tutorial Status:
+https://www.youtube.com/watch?v=TO6akRGXhx8&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=6
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
